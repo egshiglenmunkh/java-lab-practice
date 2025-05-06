@@ -1,0 +1,12 @@
+     A B C D E F G H I J 
+     _ _ _ _ _ _ _ _ _ _ 
+1  | P P           P    
+2  |               P    
+3  |     B B B B        
+4  | S             D D D
+5  | S   B B B B        
+6  | S             S S S
+7  |       P P          
+8  |                    
+9  |   P P   A A A A A A
+10 |                    
